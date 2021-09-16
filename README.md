@@ -6,14 +6,13 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Uggo Pesta
+- Jane Harumi
+- Luccas Benedetti
 
 ## Professor
 
-- Mestre Yoda
+- Will
 
 # Documentação
 
