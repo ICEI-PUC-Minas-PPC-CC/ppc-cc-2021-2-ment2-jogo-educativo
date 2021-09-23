@@ -19,7 +19,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Tornar o aprendizado sobre a história mais divertido por meio de um jogo 3D
+Tornar o aprendizado sobre a história mais divertido por meio de um jogo 3D.
 
 ## Justificativa
 
