@@ -6,9 +6,9 @@
 
 ## Integrantes
 
-- Uggo Pestana
-- Jane Harumi
-- Luccas Benedetti
+- Uggo Pestana - 35 991178878
+- Jane Harumi - 35 999544108
+- Luccas Benedetti - 35 984635115
 
 ## Professor
 
