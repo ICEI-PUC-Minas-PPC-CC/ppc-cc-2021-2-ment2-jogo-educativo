@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- Uggo Pesta
+- Uggo Pestana
 - Jane Harumi
 - Luccas Benedetti
 
