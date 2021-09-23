@@ -34,7 +34,7 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-(teste) Professores de história que desejam ensinar seus alunos de uma forma diferente sobre um determinado período histórico (teste).
+(teste) Professores de história que desejam ensinar seus alunos de uma forma diferente sobre um determinado período histórico( não definido ainda) (teste).
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
