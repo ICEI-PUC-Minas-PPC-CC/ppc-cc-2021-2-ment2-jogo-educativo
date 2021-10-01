@@ -1,10 +1,10 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Jogo baseado em um período da história que tem a proposta de deixar os estudos de história de alunos do ensino médio mais interessante, portanto, menos massante.
 
 ## Problema
 
-Aulas de história são muito massantes e cansativas.
+Aulas de história cansativas e sem dinâmica.
 
 ## Objetivos
 
