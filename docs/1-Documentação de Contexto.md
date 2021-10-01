@@ -12,7 +12,7 @@ Tornar o aprendizado sobre a história mais divertido por meio de um jogo 3D.
 
 ## Justificativa
 
-Eu, Luccas, sempre gostei de história porém nunca gostei das aulas, sempre aprendi mais por meio de jogos e filme. Isso nos motivou a desenvolver um jogo para deixar mais divertido o aprendizado da história.
+Eu, Luccas, sempre gostei de história porém nunca gostei das aulas, sempre aprendi mais por meio de jogos e filmes. Isso nos motivou a desenvolver um jogo para deixar mais divertido o aprendizado da história.
 
 ## Público-Alvo
 
