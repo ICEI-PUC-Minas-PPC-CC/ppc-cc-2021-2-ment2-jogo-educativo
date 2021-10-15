@@ -26,16 +26,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Criar um ambiente de aprendizado virtual, educativo e divertido | ALTA |
+|RF-002| Desenvolver uma interface simples e fácil de usar  | MÉDIA |
+|RF-003| Criar uma perspectiva de conquista e crescimento dentro do jogo | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O jogo deve ser leve para rodar em dispositivos mais simples | MÉDIA |
+|RNF-002| Deve utilizar linguagem simples para ser melhor entendido por jovens e crianças |  MÉDIA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
